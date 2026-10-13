@@ -1,0 +1,16 @@
+PAIRWISE — SUBMISSION LINKS
+
+GitHub repository:
+[PASTE THE PUBLIC REPOSITORY URL AFTER YOU CREATE IT]
+
+Live website:
+[PASTE THE DEPLOYED FRONTEND URL AFTER DEPLOYMENT]
+
+API documentation:
+[PASTE THE DEPLOYED BACKEND URL + /docs AFTER DEPLOYMENT]
+
+YouTube demo:
+[PASTE THE YOUTUBE VIDEO URL AFTER UPLOADING]
+
+Project summary:
+Pairwise is a React + FastAPI prototype for a two-source multi-agent compatibility workflow. Each consenting participant has a LinkedIn and Instagram source URL. The app stores source-specific notes, extracts interest keywords with source evidence, and ranks participants by shared-interest overlap. The current version is a prototype and does not scrape social media or use autonomous LLM reasoning.

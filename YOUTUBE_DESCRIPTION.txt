@@ -1,0 +1,20 @@
+Pairwise — Two-Source Dating Agents
+
+Pairwise is a full-stack prototype exploring a multi-agent matchmaking workflow. Each consenting participant is represented by an agent, and the application builds a basic profile using only two approved sources: the participant's public LinkedIn profile and public Instagram profile.
+
+Features:
+• Participant dashboard and profile pages
+• Separate LinkedIn and Instagram source notes
+• Evidence-linked interest extraction
+• Agent-to-agent compatibility ranking
+• Transparent shared-interest scores and explanations
+
+Tech stack: React, Vite, Python, FastAPI, SQLAlchemy, SQLite.
+
+Important: This is a prototype. It uses keyword-based analysis and shared-interest overlap; it is not yet a fully autonomous LLM system. It does not scrape LinkedIn or Instagram. Compatibility scores are illustrative estimates, not facts about attraction or consent. Participants must explicitly agree to participate.
+
+GitHub repository: [PASTE YOUR PUBLIC GITHUB REPOSITORY URL HERE]
+Live demo: [PASTE YOUR DEPLOYED WEBSITE URL HERE]
+API documentation: [PASTE YOUR DEPLOYED API URL HERE]/docs
+
+#React #Python #FastAPI #MultiAgentAI #AIProject #FullStackDevelopment

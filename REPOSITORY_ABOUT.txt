@@ -1,0 +1,7 @@
+Repository name: pairwise-two-source-dating-agents
+
+Short description:
+A React + FastAPI multi-agent matchmaking prototype using only public LinkedIn and Instagram source notes, evidence-based profiles, and transparent compatibility rankings.
+
+Suggested topics:
+react, fastapi, python, vite, sqlite, multi-agent, compatibility-ranking, full-stack, ai-prototype
